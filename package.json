@@ -32,7 +32,7 @@
     "sass-loader": "^6.0.3",
     "stats-js": "^1.0.0-alpha1",
     "style-loader": "^0.16.1",
-    "three": "^0.94.0",
+    "three": "^0.125.0",
     "three-orbit-controls": "^82.1.0",
     "three-orbitcontrols": "^2.1.2",
     "webpack": "^2.3.3"
